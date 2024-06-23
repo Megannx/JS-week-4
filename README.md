@@ -12,7 +12,7 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 ## Link to Application
 
-http://127.0.0.1:5500/index.html
+[http://127.0.0.1:5500/index.html](https://megannx.github.io/JS-week-4/)
 
 ## Screenshot of Application
 ![image](https://github.com/Megannx/JS-week-4/assets/170055576/c806fbf0-8dde-4e96-90c7-09b543073d08)
